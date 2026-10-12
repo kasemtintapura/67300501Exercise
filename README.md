@@ -1,4 +1,4 @@
-<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/89fd0f39-852e-4721-a3bb-1b7ea58bc581" /><img width="1774" height="887" alt="Quote" src="https://github.com/user-attachments/assets/9afec0eb-6e50-4ec8-92bc-2a6afa78d851" />🐙 GitHub Assignment: Repository and README Practice
+🐙 GitHub Assignment: Repository and README Practice
 
 Clone the Git-Exercise repository and upload your copy to a repository under your own GitHub account. Complete the tasks below, then submit your repository URL for evaluation.
 
