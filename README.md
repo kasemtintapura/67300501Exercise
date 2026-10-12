@@ -1,4 +1,4 @@
-🐙 GitHub Assignment: Repository and README Practice
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/89fd0f39-852e-4721-a3bb-1b7ea58bc581" /><img width="1774" height="887" alt="Quote" src="https://github.com/user-attachments/assets/9afec0eb-6e50-4ec8-92bc-2a6afa78d851" />🐙 GitHub Assignment: Repository and README Practice
 
 Clone the Git-Exercise repository and upload your copy to a repository under your own GitHub account. Complete the tasks below, then submit your repository URL for evaluation.
 
@@ -24,19 +24,19 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: *** Your full name *** 
-Email: *** Your email address *** 
+Name: Kasem Tintapura
+Email: 6730050121@student.chula.ac.th 
 
 🖼️ 2. Picture
 
-*** Place Quote.* here *** 
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/bbcc7465-5cfc-48bf-a7bb-15266358f68e" />
 
 🎞️ 3. Animation
 
-*** Place GITGIF.* here *** 
+<img width="218" height="100" alt="GITGIF" src="https://github.com/user-attachments/assets/cf138acd-1b72-4494-877b-7d66a4522436" />
 
 💬 4. Quote
 
-*** Read and Place TEXT from Quote.* here  ***
+Revision control gives us the confident to move forward, because we can always trace our changes and return to what worked.
 
 🎬 5. Video Lecture
